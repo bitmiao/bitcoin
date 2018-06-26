@@ -7,13 +7,6 @@ https://bitcoincore.org
 
 What is Bitcoin?
 ----------------
-```ruby 
-class ApplicationController 
-  def index 
-    p 'aa'
-  end 
-end 
-```
 
 Bitcoin is an experimental digital currency that enables instant payments to
 anyone, anywhere in the world. Bitcoin uses peer-to-peer technology to operate
